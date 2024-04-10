@@ -1,0 +1,7 @@
+# config file
+dns_speed_mate.yaml
+
+# wails
+build/bin
+node_modules
+frontend/dist
